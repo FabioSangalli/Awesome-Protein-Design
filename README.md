@@ -78,7 +78,7 @@ A (curated) newbie list of free (for academics) tool for Protein Design, with a 
 
 ## Databases
 
- + Gold Standard [PDB](https://www.uniprot.org/)
+ + The gold Standard [PDB](https://www.uniprot.org/)
     Database with all cristalized protein
 
  + [Brenda](https://www.brenda-enzymes.org/)
