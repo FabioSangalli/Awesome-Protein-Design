@@ -81,7 +81,7 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
    
     Most of the tools presented here are from the Loschmidt lab. To keep updated on new tools you can check their official page.
 
-## Tools for protein simulations
+## Tools for protein simulations and folding
 
  + [make it rain](https://github.com/pablo-arantes/making-it-rain)
    
@@ -94,6 +94,9 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
  + [CollabFold](https://github.com/sokrypton/ColabFold?tab=readme-ov-file)
    
     A collection of Google collab for running Aphafold, ESM, Rosettafold, etc. on Google's Cloud, based on the paper: [ColabFold: making protein folding accessible to all](https://doi.org/10.1038/s41592-022-01488-1).
+
+ + [RFDiffusion collab](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
+   A collab that use David Backer's RFdiffusion algorithm to generate a backbone from a structure.
 
  + **QM/MM simulation**
    
