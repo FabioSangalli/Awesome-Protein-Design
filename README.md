@@ -117,3 +117,18 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
  + [Rhea](https://www.rhea-db.org/)
    
     Database that contains enzymes classified by its reactions noted as smile reactions.
+
+# License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This means you are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit
+- NonCommercial — You may not use the material for commercial purposes
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+
+This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
