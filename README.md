@@ -21,9 +21,13 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
     Meta 3D structure database prediction.
 
 ### LLM based tools
-+ [Enzyme miner](https://loschmidt.chemi.muni.cz/enzymeminer/)
+
++ [protGPT2 & ZymCTRL](https://huggingface.co/nferruz)
    
-    More advanced searching and comparing tools that also take into consideration protein solubility in E. Coli.
+    Language models that you can use to generate sequences with a high probability of fold:
+
+    * ProtGPT2 needs a peptide as input
+    * ZymCTRL needs a Chemical reaction in smile format as input.
 
 + **EVO-2**, DNA functional model.
 
@@ -36,12 +40,9 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
 
 ### Other search tools
 
- + [protGPT2 & ZymCTRL](https://huggingface.co/nferruz)
++ [Enzyme miner](https://loschmidt.chemi.muni.cz/enzymeminer/)
    
-    Language models that you can use to generate sequences with a high probability of fold:
-
-    * ProtGPT2 needs a peptide as input
-    * ZymCTRL needs a Chemical reaction in smile format as input.
+    More advanced searching and comparing tools that also take into consideration protein solubility in E. Coli.
 
  + [RetroBiocat](https://retrobiocat.com/)
    
