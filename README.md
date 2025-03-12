@@ -20,10 +20,21 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
    
     Meta 3D structure database prediction.
 
-### Other search tools
- + [Enzyme miner](https://loschmidt.chemi.muni.cz/enzymeminer/)
+### LLM based tools
++ [Enzyme miner](https://loschmidt.chemi.muni.cz/enzymeminer/)
    
     More advanced searching and comparing tools that also take into consideration protein solubility in E. Coli.
+
++ **EVO-2**, DNA functional model.
+
+   It's a model designed principally for DNA and genomic, it could be usefull for some specific application, i.e. if you are working on DNA sequence based source. 
+
+  * [Nvidia's server](https://build.nvidia.com/nvidia/evo2-protein-design)
+
+  * [Arc instute's server](https://arcinstitute.org/tools/evo/evo-designer )
+
+
+### Other search tools
 
  + [protGPT2 & ZymCTRL](https://huggingface.co/nferruz)
    
