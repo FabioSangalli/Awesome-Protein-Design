@@ -54,6 +54,10 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
    
     Most of the software is open-source, it's standard for protein visualization, and it also offers plugins that can offer various advanced analysis or prepping tools.
 
++ [chatMol](https://chatmol.org/)
+
+  A pymol plugin to perform operation on pymol by using natural languange throught chatGPT. If you are a beginner, or you want to use it just one time is the software for you.
+
  + [Chimera](https://www.cgl.ucsf.edu/chimera/)
    
     Similar to Pymol, Chimera can do both visualization and analysis of the protein.
@@ -61,6 +65,11 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
  + [Protein contact atlas](http://pca.mbgroup.bio/index.html)
    
     A tool for visualization of contact within the protein structure, to have a different view respect to Pymol and Chimera.
+
+ + [Pymol fitter](https://github.com/HiteSit/PyMol_Fitter) 
+   
+   A docker image for the simple installation of a Pymol installation that is able to dock on your machine
+ 
 
 ## Tools for protein engineering
 
