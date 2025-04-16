@@ -117,7 +117,7 @@ A (curated) newbie list of free (for academics) tools for Protein Design, focusi
     A collection of Google collab for running Aphafold, ESM, Rosettafold, etc. on Google's Cloud, based on the paper: [ColabFold: making protein folding accessible to all](https://doi.org/10.1038/s41592-022-01488-1).
 
  + [RFDiffusion collab](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb)
-   A collab that use David Backer's RFdiffusion algorithm to generate a backbone from a structure.
+   A collab that use David Backer's RFdiffusion algorithm to generate a protein from a structure/transition state/theozime.
 
  + **QM/MM simulation**
    
